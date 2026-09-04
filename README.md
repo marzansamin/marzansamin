@@ -8,8 +8,6 @@
 
 <hr>
 
----
-
 ## 🚀 Current Focus
 
 - 🎓 Currently pursuing an **MSc in Computer Science & Engineering with a specialization in Data Science at BRAC University**.
@@ -27,7 +25,5 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=marzansamin&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
 </p>
-
----
 
 <hr>
