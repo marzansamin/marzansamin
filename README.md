@@ -8,10 +8,26 @@
 
 <hr>
 
-I'm a **Software Quality Assurance Engineer** with a background in Computer Science and Engineering, currently pursuing my **Master of Science in Computer Science and Engineering with a specialization in Data Science at BRAC University**.
+---
 
-After gaining professional experience in **Software Quality Assurance**, I'm now focusing my career and learning journey toward **Artificial Intelligence, Machine Learning, and Data Science**.
+## 🚀 Current Focus
 
-I'm interested in **Python, Machine Learning, Deep Learning, Data Analysis, Computer Vision, and AI/ML Research**, with a goal of building reliable and practical AI-driven solutions.
+- 🎓 Currently pursuing an **MSc in Computer Science & Engineering with a specialization in Data Science at BRAC University**.
+- 🔄 **Transitioning my career from Software Quality Assurance to AI/ML and Data Science**, with a growing focus on Machine Learning, Deep Learning, and AI research.
+- 🐍 Currently working with **Python** for Data Science, Machine Learning, problem-solving, and research-oriented projects.
+- 🤖 Exploring **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and AI-driven solutions**.
+- 📊 Exploring **Data Science and Data Analysis** alongside my AI/ML journey.
+- 🧪 Bringing my previous experience in **Software Quality Assurance, Manual Testing, API Testing, Database Testing, and Test Automation** into my transition toward AI/ML.
+- 🔬 Exploring **AI/ML research** and practical applications of Artificial Intelligence.
+- 💻 Continuously learning through **hands-on projects, problem-solving, experimentation, and practical development**.
+- 🌐 Explore My [Resume](./resume.pdf)
+
+<br>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=marzansamin&label=Profile%20Views&color=brightgreen&style=flat-square" alt="Profile Views" />
+</p>
+
+---
 
 <hr>
