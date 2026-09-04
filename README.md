@@ -7,3 +7,11 @@
 </p>
 
 <hr>
+
+I'm a **Software Quality Assurance Engineer** with a background in Computer Science and Engineering, currently pursuing my **Master of Science in Computer Science and Engineering with a specialization in Data Science at BRAC University**.
+
+After gaining professional experience in **Software Quality Assurance**, I'm now focusing my career and learning journey toward **Artificial Intelligence, Machine Learning, and Data Science**.
+
+I'm interested in **Python, Machine Learning, Deep Learning, Data Analysis, Computer Vision, and AI/ML Research**, with a goal of building reliable and practical AI-driven solutions.
+
+<hr>
