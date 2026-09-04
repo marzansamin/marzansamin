@@ -109,3 +109,29 @@
 </p>
 
 <hr>
+
+## 📊 GITHUB STATISTICS & ANALYSIS
+
+### GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marzansamin&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+</p>
+
+### GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marzansamin&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzansamin&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+</p>
+
+<hr>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=marzansamin&theme=dark&hide_border=true" width="70%" alt="GitHub Streak"/>
+</p>
+
+<hr>
