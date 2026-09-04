@@ -66,8 +66,7 @@
 
 <img src="https://img.shields.io/badge/Machine%20Learning-6C63FF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Science-2E86C1?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Data%20Analysis-16A085?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-16A085?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Computer%20Vision-E74C3C?style=for-the-badge"/>
 
 </p>
@@ -106,7 +105,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
 
 </p>
 
