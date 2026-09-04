@@ -112,18 +112,30 @@
 
 ## 📊 GITHUB STATISTICS & ANALYSIS
 
-### GitHub Contributions
+### 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marzansamin&theme=github-dark&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=marzansamin&theme=github-dark&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
-### GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marzansamin&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/stats?username=marzansamin&show_icons=true&theme=github_dark&hide_border=true"
+    height="180"
+    alt="GitHub Stats"
+  />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marzansamin&layout=compact&theme=dark&hide_border=true&langs_count=8" height="180" alt="Top Languages"/>
+  <img
+    src="https://github-readme-stats.tuhidulhossain.com/api/top-langs?username=marzansamin&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 <hr>
