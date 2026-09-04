@@ -1,3 +1,11 @@
+<p align="center">
+  <img
+    src="./banner.png"
+    alt="Marzan Samin Ashrafi - AI/ML Portfolio Banner"
+    width="100%"
+  />
+</p>
+
 <h1 align="center">
   Hello 👋, This is Marzan Samin Ashrafi.
 </h1>
