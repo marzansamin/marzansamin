@@ -25,7 +25,7 @@
 - 🧪 Bringing my previous experience in **Software Quality Assurance, Manual Testing, API Testing, Database Testing, and Test Automation** into my transition toward AI/ML.
 - 🔬 Exploring **AI/ML research** and practical applications of Artificial Intelligence.
 - 💻 Continuously learning through **hands-on projects, problem-solving, experimentation, and practical development**.
-- 🌐 Explore My <a href="./resume.pdf" target="_blank">Resume</a>
+- 🌐 Explore My <a href="./Marzan Samin Ashrafi_CV.pdf" target="_blank">Resume</a>
 
 <br>
 
