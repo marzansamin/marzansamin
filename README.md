@@ -19,7 +19,6 @@
 ## 🚀 Current Focus
 
 - 🎓 Currently pursuing an **MSc in Computer Science & Engineering with a specialization in Data Science at BRAC University**.
-- 🔄 **Transitioning my career from Software Quality Assurance to AI/ML and Data Science**, with a growing focus on Machine Learning, Deep Learning, and AI research.
 - 🐍 Currently working with **Python** for Data Science, Machine Learning, problem-solving, and research-oriented projects.
 - 🤖 Exploring **Machine Learning, Deep Learning, Computer Vision, Natural Language Processing, and AI-driven solutions**.
 - 📊 Exploring **Data Science and Data Analysis** alongside my AI/ML journey.
